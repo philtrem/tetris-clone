@@ -1,0 +1,12 @@
+body {
+    background-image: url("../img/wallpaper.jpg");
+}
+
+.main-view {
+    display: block;
+    margin: 0 auto;
+    background-color: rgba(0, 0, 0, 0.48);
+    opacity: 1;
+}
+
+
